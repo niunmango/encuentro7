@@ -42,3 +42,6 @@ function agregarEntrada() {
 }
 
 agregarBtn.addEventListener('click', agregarEntrada);
+
+
+
